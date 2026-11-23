@@ -2,7 +2,7 @@
   "source": "CholloSúper",
   "source_url": "https://chollosuper.com/datos",
   "license": "CC BY 4.0",
-  "updated_at": "2026-11-22T11:03:57+00:00",
+  "updated_at": "2026-11-23T11:21:26+00:00",
   "price_date": "2026-11-22",
   "scope": "Precios de referencia, no comprobados en Brenes. DIA: Granollers/Cataluña por defecto.",
   "kind": "bajadas_del_dia_no_catalogo_completo",
@@ -10,7 +10,7 @@
     {
       "id": "chollo-1",
       "name": "Plumas +proteína GALLO, paquete 400 g",
-      "size": "400 g",
+      "size": "400 gr",
       "store": "DIA",
       "price": 1.0,
       "date": "2026-11-22",
@@ -55,7 +55,7 @@
     {
       "id": "chollo-4",
       "name": "Aceite especial para freir KOIPE FRITOS, botella 1 litro",
-      "size": "1 litro",
+      "size": "1 l",
       "store": "DIA",
       "price": 2.2,
       "date": "2026-11-22",
@@ -94,21 +94,6 @@
       "demo": false,
       "source": "CholloSúper (CC BY 4.0) · referencia no verificada en Brenes",
       "product_url": "https://chollosuper.com/precio/cerveza-san-miguel-lata-33-cl-p811",
-      "region": "Referencia online; DIA: Granollers/Cataluña por defecto",
-      "origin": "chollosuper"
-    },
-    {
-      "id": "chollo-7",
-      "name": "JUVER Nèctar sense sucre de poma",
-      "size": "1.5 l",
-      "store": "DIA",
-      "price": 1.74,
-      "date": "2026-11-22",
-      "type": "regular",
-      "end": "",
-      "demo": false,
-      "source": "CholloSúper (CC BY 4.0) · referencia no verificada en Brenes",
-      "product_url": "https://chollosuper.com/precio/juver-nectar-sense-sucre-de-poma-p8270",
       "region": "Referencia online; DIA: Granollers/Cataluña por defecto",
       "origin": "chollosuper"
     }
